@@ -1,0 +1,340 @@
+0000.001 (0) Opened log file at time: Wed, 14 Jun 2023 02:49:53 +0000 on http://joao.vigarani-site
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.23.4.26 WP: 6.2.2 PHP: 8.1.9 (cgi-fcgi, Windows NT ASPIRE3-JV 10.0 build 22621 (Windows 11) AMD64) MySQL: 8.0.16 (max packet size=16777216) WPLANG: en_US Server: nginx/1.16.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 6.2M | 8M) multisite: N openssl: OpenSSL 1.1.1q  5 Jul 2022 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.005 (0) Free space on disk containing Updraft's temporary directory: 259519.1 MB
+0000.009 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.012 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.017 (0) Set semaphore last lock (fd) time to 2023-06-14 02:49:53
+0000.019 (0) Semaphore lock (fd) complete
+0000.025 (0) Backup run: resumption=0, nonce=d45e945f1567, file_nonce=d45e945f1567 begun at=1686710993 (0s ago), job type=backup
+0000.029 (0) Scheduling a resumption (1) after 300 seconds (1686711293) in case this run gets aborted
+0000.034 (0) Checking if we have a zip executable available
+0000.037 (0) Creation of backups of directories: beginning
+0000.043 (0) PHP event: code E_DEPRECATED: rtrim(): Passing null to parameter #1 ($string) of type string is deprecated (line 2809, C:\Users\jazev\Local Sites\joo-vigarani\app\public\wp-includes\formatting.php)
+0000.046 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.049 (0) PHP event: code E_DEPRECATED: rtrim(): Passing null to parameter #1 ($string) of type string is deprecated (line 2809, C:\Users\jazev\Local Sites\joo-vigarani\app\public\wp-includes\formatting.php)
+0000.808 (0) Total entities for the zip file: 570 directories, 2770 files (0 skipped as non-modified), 33.6 MB
+0000.858 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.900 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.947 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.990 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.036 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.084 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0001.128 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0001.170 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0001.212 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0001.251 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0001.254 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (16.3 MB, 2770 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0002.405 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-plugins.zip.tmp: 1100 files added (on-disk size: 4568 KB)
+0002.450 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-plugins.zip.tmp: 1200 files added (on-disk size: 4568 KB)
+0002.494 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-plugins.zip.tmp: 1300 files added (on-disk size: 4568 KB)
+0002.539 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-plugins.zip.tmp: 1400 files added (on-disk size: 4568 KB)
+0002.586 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-plugins.zip.tmp: 1500 files added (on-disk size: 4568 KB)
+0002.629 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-plugins.zip.tmp: 1600 files added (on-disk size: 4568 KB)
+0002.682 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-plugins.zip.tmp: 1700 files added (on-disk size: 4568 KB)
+0002.722 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-plugins.zip.tmp: 1800 files added (on-disk size: 4568 KB)
+0002.768 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-plugins.zip.tmp: 1900 files added (on-disk size: 4568 KB)
+0002.812 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-plugins.zip.tmp: 2000 files added (on-disk size: 4568 KB)
+0002.816 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (7.3 MB, 2770 files batched, 1001 (2002) added so far); re-opening (prior size: 4568 KB)
+0003.671 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-plugins.zip.tmp: 2100 files added (on-disk size: 6973.4 KB)
+0003.710 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-plugins.zip.tmp: 2200 files added (on-disk size: 6973.4 KB)
+0003.760 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-plugins.zip.tmp: 2300 files added (on-disk size: 6973.4 KB)
+0003.802 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-plugins.zip.tmp: 2400 files added (on-disk size: 6973.4 KB)
+0003.852 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-plugins.zip.tmp: 2500 files added (on-disk size: 6973.4 KB)
+0003.904 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-plugins.zip.tmp: 2600 files added (on-disk size: 6973.4 KB)
+0003.951 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-plugins.zip.tmp: 2700 files added (on-disk size: 6973.4 KB)
+0004.787 (0) Creating zip file manifest (backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-plugins.zip.list-temp.tmp)
+0004.805 (0) Successfully created zip file manifest (size: 238049)
+0004.906 (0) Created plugins zip (0) - 9887.1 KB in 4.9 s (2036.7 KB/s) (sha1: d762e07e288ad357e22c5e96c1a36982464c20f0, sha256: ea99546e695d0d76816448674556722381cb5efda1c8b4b59e9412fece87e6a3)
+0004.909 (0) PHP event: code E_DEPRECATED: rtrim(): Passing null to parameter #1 ($string) of type string is deprecated (line 2809, C:\Users\jazev\Local Sites\joo-vigarani\app\public\wp-includes\formatting.php)
+0004.917 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0004.919 (0) No remote despatch: user chose no remote backup service
+0004.921 (0) Recording as successfully uploaded: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-plugins.zip
+0004.924 (0) Deleting zip manifest (backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-plugins.zip.list.tmp)
+0004.929 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0004.931 (0) PHP event: code E_DEPRECATED: rtrim(): Passing null to parameter #1 ($string) of type string is deprecated (line 2809, C:\Users\jazev\Local Sites\joo-vigarani\app\public\wp-includes\formatting.php)
+0004.933 (0) PHP event: code E_DEPRECATED: rtrim(): Passing null to parameter #1 ($string) of type string is deprecated (line 2809, C:\Users\jazev\Local Sites\joo-vigarani\app\public\wp-includes\formatting.php)
+0004.933 (0) Number of backup sets in history: 1; groups (db): 1
+0004.935 (0) Examining (for databases) backup set with group_id=0, nonce=a96186afe3c0, datestamp=1686710716 (Jun 14 2023 02:45:16)
+0004.936 (0) 1686710716: db: was sent to remote site; will remove from local record (only)
+0004.938 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0004.940 (0) Number of backup sets in history: 1; groups (files): 1
+0004.942 (0) Examining (for files) backup set with nonce=a96186afe3c0, datestamp=1686710716 (Jun 14 2023 02:45:16)
+0004.942 (0) plugins: 1686710716: was sent to remote site; will remove from local record (only)
+0004.943 (0) themes: 1686710716: was sent to remote site; will remove from local record (only)
+0004.945 (0) uploads: 1686710716: was sent to remote site; will remove from local record (only)
+0004.946 (0) others: 1686710716: was sent to remote site; will remove from local record (only)
+0004.949 (0) This backup set is now empty; will remove from history
+0004.951 (0) Deleting log file (log.a96186afe3c0.txt)
+0004.954 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0004.963 (0) Beginning creation of dump of themes (split every: 400 MB)
+0004.966 (0) PHP event: code E_DEPRECATED: rtrim(): Passing null to parameter #1 ($string) of type string is deprecated (line 2809, C:\Users\jazev\Local Sites\joo-vigarani\app\public\wp-includes\formatting.php)
+0005.304 (0) Total entities for the zip file: 223 directories, 1476 files (0 skipped as non-modified), 55.1 MB
+0005.350 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0005.402 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0005.475 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0005.516 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0005.555 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0005.595 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0005.637 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0005.684 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0005.734 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0005.739 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.8 MB, 1476 files batched, 905 (905) added so far); re-opening (prior size: 0 KB)
+0007.455 (0) A useful amount of data was added after this amount of zip processing: 3 s (normalised: 2.9 s, rate: 8853.8 KB/s)
+0007.459 (0) Performance is good - will increase the amount of data we attempt to batch (time=2.9796071052551, normalised_time=2.8914118951045, max_time=7.4562768936157, data points known=1, old_max_bytes=26214400, new_max_bytes=54397784)
+0007.504 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-themes.zip.tmp: 1000 files added (on-disk size: 7450.4 KB)
+0007.551 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-themes.zip.tmp: 1100 files added (on-disk size: 7450.4 KB)
+0007.596 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-themes.zip.tmp: 1200 files added (on-disk size: 7450.4 KB)
+0007.640 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-themes.zip.tmp: 1300 files added (on-disk size: 7450.4 KB)
+0007.680 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-themes.zip.tmp: 1400 files added (on-disk size: 7450.4 KB)
+0010.517 (0) Creating zip file manifest (backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-themes.zip.list-temp.tmp)
+0010.526 (0) Successfully created zip file manifest (size: 116885)
+0010.680 (0) Created themes zip (0) - 15509.3 KB in 5.7 s (2715.3 KB/s) (sha1: f7998ab8b12d0135d2175546d2230b968068321f, sha256: 9f1d7df813487648d6cab758c785898dc065b87c2632ba00e7a4362ebc586579)
+0010.683 (0) PHP event: code E_DEPRECATED: rtrim(): Passing null to parameter #1 ($string) of type string is deprecated (line 2809, C:\Users\jazev\Local Sites\joo-vigarani\app\public\wp-includes\formatting.php)
+0010.689 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0010.691 (0) No remote despatch: user chose no remote backup service
+0010.693 (0) Recording as successfully uploaded: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-themes.zip
+0010.696 (0) Deleting zip manifest (backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-themes.zip.list.tmp)
+0010.700 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0010.701 (0) PHP event: code E_DEPRECATED: rtrim(): Passing null to parameter #1 ($string) of type string is deprecated (line 2809, C:\Users\jazev\Local Sites\joo-vigarani\app\public\wp-includes\formatting.php)
+0010.703 (0) PHP event: code E_DEPRECATED: rtrim(): Passing null to parameter #1 ($string) of type string is deprecated (line 2809, C:\Users\jazev\Local Sites\joo-vigarani\app\public\wp-includes\formatting.php)
+0010.703 (0) Number of backup sets in history: 0; groups (db): 0
+0010.704 (0) Number of backup sets in history: 0; groups (files): 0
+0010.706 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0010.714 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0010.716 (0) Looking for candidates to backup in: C:\Users\jazev\Local Sites\joo-vigarani\app\public/wp-content/uploads
+0010.717 (0) finding files: 2023: adding to list (1)
+0010.719 (0) finding files: et-fonts: adding to list (2)
+0010.720 (0) finding files: et_temp: adding to list (3)
+0010.722 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0010.725 (0) PHP event: code E_DEPRECATED: rtrim(): Passing null to parameter #1 ($string) of type string is deprecated (line 2809, C:\Users\jazev\Local Sites\joo-vigarani\app\public\wp-includes\formatting.php)
+0010.755 (0) Total entities for the zip file: 4 directories, 142 files (0 skipped as non-modified), 26.4 MB
+0010.794 (0) Zip: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0010.942 (0) Creating zip file manifest (backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-uploads.zip.list-temp.tmp)
+0010.945 (0) Successfully created zip file manifest (size: 7500)
+0011.206 (0) Created uploads zip (0) - 26959.4 KB in 0.5 s (56319.1 KB/s) (sha1: daf4b71dd8468e4344cf292f8d6f3576eedda8ae, sha256: b4c3bb6b31331b223f3624a8ef2715e801f070c0ddfa5c4ecd09ff78e9f04aa2)
+0011.209 (0) PHP event: code E_DEPRECATED: rtrim(): Passing null to parameter #1 ($string) of type string is deprecated (line 2809, C:\Users\jazev\Local Sites\joo-vigarani\app\public\wp-includes\formatting.php)
+0011.215 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0011.217 (0) No remote despatch: user chose no remote backup service
+0011.218 (0) Recording as successfully uploaded: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-uploads.zip
+0011.222 (0) Deleting zip manifest (backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-uploads.zip.list.tmp)
+0011.225 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0011.227 (0) PHP event: code E_DEPRECATED: rtrim(): Passing null to parameter #1 ($string) of type string is deprecated (line 2809, C:\Users\jazev\Local Sites\joo-vigarani\app\public\wp-includes\formatting.php)
+0011.229 (0) PHP event: code E_DEPRECATED: rtrim(): Passing null to parameter #1 ($string) of type string is deprecated (line 2809, C:\Users\jazev\Local Sites\joo-vigarani\app\public\wp-includes\formatting.php)
+0011.229 (0) Number of backup sets in history: 0; groups (db): 0
+0011.230 (0) Number of backup sets in history: 0; groups (files): 0
+0011.232 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0011.239 (0) No backup of wpcore: excluded by user's options
+0011.242 (0) Beginning backup of other directories found in the content directory (index: 0)
+0011.244 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0011.245 (0) PHP event: code E_DEPRECATED: rtrim(): Passing null to parameter #1 ($string) of type string is deprecated (line 2809, C:\Users\jazev\Local Sites\joo-vigarani\app\public\wp-includes\formatting.php)
+0011.247 (0) Looking for candidates to backup in: C:\Users\jazev\Local Sites\joo-vigarani\app\public/wp-content
+0011.248 (0) finding files: advanced-cache.php: adding to list (1)
+0011.250 (0) finding files: cache: skipping: excluded by options
+0011.251 (0) finding files: et-cache: adding to list (2)
+0011.253 (0) finding files: index.php: adding to list (3)
+0011.254 (0) finding files: plugins: skipping: this is the plugins directory
+0011.255 (0) finding files: themes: skipping: this is the themes directory
+0011.257 (0) finding files: updraft: skipping: this is the updraft directory
+0011.258 (0) finding files: upgrade: skipping: excluded by options
+0011.260 (0) finding files: uploads: skipping: this is the uploads directory
+0011.261 (0) finding files: wp-rocket-config: adding to list (4)
+0011.264 (0) PHP event: code E_DEPRECATED: rtrim(): Passing null to parameter #1 ($string) of type string is deprecated (line 2809, C:\Users\jazev\Local Sites\joo-vigarani\app\public\wp-includes\formatting.php)
+0011.273 (0) Total entities for the zip file: 4 directories, 17 files (0 skipped as non-modified), 3.4 MB
+0011.444 (0) Creating zip file manifest (backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-others.zip.list-temp.tmp)
+0011.448 (0) Successfully created zip file manifest (size: 868)
+0011.468 (0) Created others zip (0) - 826.8 KB in 0.2 s (4103.7 KB/s) (sha1: 73152b0a6e3a8054521ee69e99c421ddabc2facf, sha256: 490f5d70b2a66a14f2815b46522007abf19ed55a49e4bc83343841774bf07acf)
+0011.471 (0) PHP event: code E_DEPRECATED: rtrim(): Passing null to parameter #1 ($string) of type string is deprecated (line 2809, C:\Users\jazev\Local Sites\joo-vigarani\app\public\wp-includes\formatting.php)
+0011.476 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0011.478 (0) No remote despatch: user chose no remote backup service
+0011.479 (0) Recording as successfully uploaded: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-others.zip
+0011.482 (0) Deleting zip manifest (backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-others.zip.list.tmp)
+0011.486 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0011.488 (0) PHP event: code E_DEPRECATED: rtrim(): Passing null to parameter #1 ($string) of type string is deprecated (line 2809, C:\Users\jazev\Local Sites\joo-vigarani\app\public\wp-includes\formatting.php)
+0011.489 (0) PHP event: code E_DEPRECATED: rtrim(): Passing null to parameter #1 ($string) of type string is deprecated (line 2809, C:\Users\jazev\Local Sites\joo-vigarani\app\public\wp-includes\formatting.php)
+0011.489 (0) Number of backup sets in history: 0; groups (db): 0
+0011.491 (0) Number of backup sets in history: 0; groups (files): 0
+0011.492 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0011.499 (0) No backup of more: excluded by user's options
+0011.505 (0) Saving backup status to database (elements: 8)
+0011.507 (0) PHP event: code E_DEPRECATED: rtrim(): Passing null to parameter #1 ($string) of type string is deprecated (line 2809, C:\Users\jazev\Local Sites\joo-vigarani\app\public\wp-includes\formatting.php)
+0011.510 (0) Beginning creation of database dump (WordPress DB)
+0011.512 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+0011.535 (0) Table wp_options: Total expected rows (via COUNT): 269
+0011.536 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0011.593 (0) Table wp_options: Rows added in this batch (next record: 1060): 265 (uncompressed bytes in this segment=1187601) in 0.07 seconds
+0011.606 (0) Table wp_options: finishing file(s) (2, 307.3 KB)
+0011.616 (0) Table wp_users: Total expected rows (via COUNT): 1
+0011.618 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0011.622 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1404) in 0.01 seconds
+0011.633 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0011.645 (0) Table wp_usermeta: Total expected rows (via COUNT): 23
+0011.647 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0011.649 (0) Table wp_usermeta: Rows added in this batch (next record: 24): 23 (uncompressed bytes in this segment=3250) in 0.01 seconds
+0011.661 (0) Table wp_usermeta: finishing file(s) (2, 1.4 KB)
+0011.672 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 74
+0011.673 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0011.680 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 79): 74 (uncompressed bytes in this segment=25734) in 0.01 seconds
+0011.692 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 3 KB)
+0011.699 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0011.703 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=625) in 0.01 seconds
+0011.713 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0011.722 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 2
+0011.723 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0011.727 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=713) in 0.01 seconds
+0011.737 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0011.745 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 222
+0011.747 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0011.753 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 222): 222 (uncompressed bytes in this segment=19572) in 0.01 seconds
+0011.763 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 2.8 KB)
+0011.774 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0011.777 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=685) in 0.01 seconds
+0011.789 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0011.798 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0011.799 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0011.804 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2141) in 0.01 seconds
+0011.814 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0011.822 (0) Table wp_links: Total expected rows (via COUNT): 0
+0011.826 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1310) in 0.01 seconds
+0011.836 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0011.847 (0) Table wp_postmeta: Total expected rows (via COUNT): 171
+0011.849 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0011.855 (0) Table wp_postmeta: Rows added in this batch (next record: 543): 171 (uncompressed bytes in this segment=57548) in 0.01 seconds
+0011.867 (0) Table wp_postmeta: finishing file(s) (2, 8.2 KB)
+0011.896 (0) Table wp_posts: Total expected rows (via COUNT): 163
+0011.897 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0011.931 (0) Table wp_posts: Rows added in this batch (next record: 204): 163 (uncompressed bytes in this segment=1772962) in 0.06 seconds
+0011.943 (0) Table wp_posts: finishing file(s) (2, 84.1 KB)
+0011.951 (0) Table wp_term_relationships: Total expected rows (approximate): 9
+0011.955 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 9 (uncompressed bytes in this segment=809) in 0.01 seconds
+0011.964 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0011.974 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 4
+0011.975 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0011.979 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=1022) in 0.01 seconds
+0011.990 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0012.001 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0012.004 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=658) in 0.01 seconds
+0012.016 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0012.025 (0) Table wp_terms: Total expected rows (via COUNT): 4
+0012.026 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0012.030 (0) Table wp_terms: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=831) in 0.01 seconds
+0012.040 (0) Table wp_terms: finishing file(s) (2, 0.5 KB)
+0012.048 (0) Table wp_wpr_rocket_cache: Total expected rows (via COUNT): 4
+0012.050 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0012.052 (0) Table wp_wpr_rocket_cache: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=1348) in 0.01 seconds
+0012.061 (0) Table wp_wpr_rocket_cache: finishing file(s) (2, 0.6 KB)
+0012.073 (0) Table wp_wpr_rucss_used_css: Total expected rows (via COUNT): 0
+0012.076 (0) Table wp_wpr_rucss_used_css: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1507) in 0.01 seconds
+0012.088 (0) Table wp_wpr_rucss_used_css: finishing file(s) (2, 0.6 KB)
+0012.097 (0) Table wp_staatic_builds: Total expected rows (via COUNT): 0
+0012.100 (0) Table wp_staatic_builds: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=910) in 0.01 seconds
+0012.110 (0) Table wp_staatic_builds: finishing file(s) (2, 0.4 KB)
+0012.119 (0) Table wp_staatic_crawl_queue: Total expected rows (via COUNT): 0
+0012.121 (0) Table wp_staatic_crawl_queue: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1030) in 0.01 seconds
+0012.131 (0) Table wp_staatic_crawl_queue: finishing file(s) (2, 0.4 KB)
+0012.140 (0) Table wp_staatic_deployments: Total expected rows (via COUNT): 0
+0012.143 (0) Table wp_staatic_deployments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=879) in 0.01 seconds
+0012.153 (0) Table wp_staatic_deployments: finishing file(s) (2, 0.4 KB)
+0012.160 (0) Table wp_staatic_known_urls: Total expected rows (approximate): 0
+0012.163 (0) Table wp_staatic_known_urls: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=474) in 0.00 seconds
+0012.173 (0) Table wp_staatic_known_urls: finishing file(s) (2, 0.3 KB)
+0012.183 (0) Table wp_staatic_log_entries: Total expected rows (via COUNT): 0
+0012.186 (0) Table wp_staatic_log_entries: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=829) in 0.01 seconds
+0012.198 (0) Table wp_staatic_log_entries: finishing file(s) (2, 0.4 KB)
+0012.209 (0) Table wp_staatic_publications: Total expected rows (via COUNT): 0
+0012.211 (0) Table wp_staatic_publications: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=999) in 0.01 seconds
+0012.224 (0) Table wp_staatic_publications: finishing file(s) (2, 0.5 KB)
+0012.232 (0) Table wp_staatic_results: Total expected rows (via COUNT): 0
+0012.234 (0) Table wp_staatic_results: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1248) in 0.00 seconds
+0012.244 (0) Table wp_staatic_results: finishing file(s) (2, 0.5 KB)
+0012.252 (0) Table wp_staatic_results_deployment: Total expected rows (approximate): 0
+0012.254 (0) Table wp_staatic_results_deployment: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=640) in 0.00 seconds
+0012.264 (0) Table wp_staatic_results_deployment: finishing file(s) (2, 0.3 KB)
+0012.266 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\Users\jazev\Local Sites\joo-vigarani\app\public/wp-content/updraft/backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db.gz (line 1976, C:\Users\jazev\Local Sites\joo-vigarani\app\public\wp-content\plugins\updraftplus\backup.php)
+0012.270 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_options.table.tmpr1061.gz (1/26/fopen): adding to final database dump
+0012.280 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_options.table.gz (2/26/fopen): adding to final database dump
+0012.282 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_users.table.tmpr2.gz (3/26/fopen): adding to final database dump
+0012.284 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_users.table.gz (4/26/fopen): adding to final database dump
+0012.286 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_usermeta.table.tmpr25.gz (5/26/fopen): adding to final database dump
+0012.288 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_usermeta.table.gz (6/26/fopen): adding to final database dump
+0012.289 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_actionscheduler_actions.table.tmpr80.gz (7/26/fopen): adding to final database dump
+0012.291 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_actionscheduler_actions.table.gz (8/26/fopen): adding to final database dump
+0012.293 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/26/fopen): adding to final database dump
+0012.295 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_actionscheduler_claims.table.gz (10/26/fopen): adding to final database dump
+0012.296 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_actionscheduler_groups.table.tmpr3.gz (11/26/fopen): adding to final database dump
+0012.298 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_actionscheduler_groups.table.gz (12/26/fopen): adding to final database dump
+0012.300 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_actionscheduler_logs.table.tmpr223.gz (13/26/fopen): adding to final database dump
+0012.302 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_actionscheduler_logs.table.gz (14/26/fopen): adding to final database dump
+0012.303 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_commentmeta.table.tmpr0.gz (15/26/fopen): adding to final database dump
+0012.305 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_commentmeta.table.gz (16/26/fopen): adding to final database dump
+0012.307 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_comments.table.tmpr2.gz (17/26/fopen): adding to final database dump
+0012.308 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_comments.table.gz (18/26/fopen): adding to final database dump
+0012.310 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_links.table.tmpr0.gz (19/26/fopen): adding to final database dump
+0012.312 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_links.table.gz (20/26/fopen): adding to final database dump
+0012.314 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_postmeta.table.tmpr544.gz (21/26/fopen): adding to final database dump
+0012.316 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_postmeta.table.gz (22/26/fopen): adding to final database dump
+0012.317 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_posts.table.tmpr205.gz (23/26/fopen): adding to final database dump
+0012.322 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_posts.table.gz (24/26/fopen): adding to final database dump
+0012.323 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_term_relationships.table.tmpr100001.gz (25/26/fopen): adding to final database dump
+0012.325 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_term_relationships.table.gz (26/26/fopen): adding to final database dump
+0012.327 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_term_taxonomy.table.tmpr5.gz (27/26/fopen): adding to final database dump
+0012.329 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_term_taxonomy.table.gz (28/26/fopen): adding to final database dump
+0012.331 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_termmeta.table.tmpr0.gz (29/26/fopen): adding to final database dump
+0012.333 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_termmeta.table.gz (30/26/fopen): adding to final database dump
+0012.334 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_terms.table.tmpr5.gz (31/26/fopen): adding to final database dump
+0012.336 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_terms.table.gz (32/26/fopen): adding to final database dump
+0012.338 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_wpr_rocket_cache.table.tmpr5.gz (33/26/fopen): adding to final database dump
+0012.340 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_wpr_rocket_cache.table.gz (34/26/fopen): adding to final database dump
+0012.341 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_wpr_rucss_used_css.table.tmpr0.gz (35/26/fopen): adding to final database dump
+0012.343 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_wpr_rucss_used_css.table.gz (36/26/fopen): adding to final database dump
+0012.344 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_staatic_builds.table.tmpr0.gz (37/26/fopen): adding to final database dump
+0012.346 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_staatic_builds.table.gz (38/26/fopen): adding to final database dump
+0012.348 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_staatic_crawl_queue.table.tmpr0.gz (39/26/fopen): adding to final database dump
+0012.349 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_staatic_crawl_queue.table.gz (40/26/fopen): adding to final database dump
+0012.351 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_staatic_deployments.table.tmpr0.gz (41/26/fopen): adding to final database dump
+0012.353 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_staatic_deployments.table.gz (42/26/fopen): adding to final database dump
+0012.354 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_staatic_known_urls.table.tmpr1.gz (43/26/fopen): adding to final database dump
+0012.356 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_staatic_known_urls.table.gz (44/26/fopen): adding to final database dump
+0012.358 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_staatic_log_entries.table.tmpr0.gz (45/26/fopen): adding to final database dump
+0012.360 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_staatic_log_entries.table.gz (46/26/fopen): adding to final database dump
+0012.361 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_staatic_publications.table.tmpr0.gz (47/26/fopen): adding to final database dump
+0012.363 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_staatic_publications.table.gz (48/26/fopen): adding to final database dump
+0012.365 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_staatic_results.table.tmpr0.gz (49/26/fopen): adding to final database dump
+0012.366 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_staatic_results.table.gz (50/26/fopen): adding to final database dump
+0012.368 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_staatic_results_deployment.table.tmpr1.gz (51/26/fopen): adding to final database dump
+0012.370 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db-table-wp_staatic_results_deployment.table.gz (52/26/fopen): adding to final database dump
+0012.377 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db.gz: finished writing out complete database file (416 KB)
+0012.400 (0) Total database tables backed up: 26 (backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db.gz, size: 426131, sha1: 914bc1eab5980a75ad6439293edcb7e73b206002, sha256: c538ae7ba17e81e7c880ec8c7c5392995bc11dbe4381492e44aef60cc440b074)
+0012.404 (0) PHP event: code E_DEPRECATED: rtrim(): Passing null to parameter #1 ($string) of type string is deprecated (line 2809, C:\Users\jazev\Local Sites\joo-vigarani\app\public\wp-includes\formatting.php)
+0012.409 (0) PHP event: code E_DEPRECATED: rtrim(): Passing null to parameter #1 ($string) of type string is deprecated (line 2809, C:\Users\jazev\Local Sites\joo-vigarani\app\public\wp-includes\formatting.php)
+0012.411 (0) PHP event: code E_DEPRECATED: rtrim(): Passing null to parameter #1 ($string) of type string is deprecated (line 2809, C:\Users\jazev\Local Sites\joo-vigarani\app\public\wp-includes\formatting.php)
+0012.412 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-plugins.zip: plugins: This file has already been successfully uploaded
+0012.413 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-themes.zip: themes: This file has already been successfully uploaded
+0012.415 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-uploads.zip: uploads: This file has already been successfully uploaded
+0012.416 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-others.zip: others: This file has already been successfully uploaded
+0012.418 (0) backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db.gz: db: This file has not yet been successfully uploaded: will queue
+0012.420 (0) Saving backup history. Total backup size: 52.3 MB
+0012.422 (0) PHP event: code E_DEPRECATED: rtrim(): Passing null to parameter #1 ($string) of type string is deprecated (line 2809, C:\Users\jazev\Local Sites\joo-vigarani\app\public\wp-includes\formatting.php)
+0012.425 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0012.430 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0012.431 (0) No remote despatch: user chose no remote backup service
+0012.433 (0) Recording as successfully uploaded: backup_2023-06-14-0249_Joo_Vitor_Vigarani_d45e945f1567-db.gz
+0012.438 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0012.440 (0) PHP event: code E_DEPRECATED: rtrim(): Passing null to parameter #1 ($string) of type string is deprecated (line 2809, C:\Users\jazev\Local Sites\joo-vigarani\app\public\wp-includes\formatting.php)
+0012.441 (0) PHP event: code E_DEPRECATED: rtrim(): Passing null to parameter #1 ($string) of type string is deprecated (line 2809, C:\Users\jazev\Local Sites\joo-vigarani\app\public\wp-includes\formatting.php)
+0012.442 (0) Number of backup sets in history: 1; groups (db): 1
+0012.443 (0) Examining (for databases) backup set with group_id=0, nonce=d45e945f1567, datestamp=1686710993 (Jun 14 2023 02:49:53)
+0012.444 (0) This backup set is the backup set just made, so will not be deleted.
+0012.444 (0) Number of backup sets in history: 1; groups (files): 1
+0012.446 (0) Examining (for files) backup set with nonce=d45e945f1567, datestamp=1686710993 (Jun 14 2023 02:49:53)
+0012.446 (0) This backup set is the backup set just made, so will not be deleted.
+0012.447 (0) This backup set is the backup set just made, so will not be deleted.
+0012.447 (0) This backup set is the backup set just made, so will not be deleted.
+0012.447 (0) This backup set is the backup set just made, so will not be deleted.
+0012.447 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0012.449 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0012.453 (0) Resume backup (d45e945f1567, 0): finish run
+0012.456 (0) Decremented the semaphore (fd) by 1
+0012.459 (0) Semaphore (fd) unlocked
+0012.460 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0012.465 (0) No email will/can be sent - the user has not configured an email address.
+0012.467 (0) The backup apparently succeeded and is now complete
